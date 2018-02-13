@@ -1,0 +1,38 @@
+ html { 
+    height: 100%; /* Высота родителя */
+    margin: 0px;  /* Убираем отступы у страницы */
+    padding: 0px;
+   }
+   body { 
+    height: 100%; /* Высота родителя */
+    margin: 0px;  /* Убираем отступы у страницы */
+    padding: 0px;
+   }
+
+.block1{
+	background:blue;
+	height:30%;
+	margin: 0px;
+	 padding: 0px;
+}
+.block2{
+	background:red;
+	height: 10%;
+	margin: 0px;
+	 padding: 0px;
+}
+.block3{
+	background:grey;
+	height:50%;
+	margin: 0px;
+
+}
+.block4{
+	background:black;
+	height:10%;
+	margin: 0px;
+}
+div {
+	float: left;
+	width: 100%
+}
