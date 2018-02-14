@@ -1,2 +1,2 @@
 # first-repository
-nothink important
+nothing important
